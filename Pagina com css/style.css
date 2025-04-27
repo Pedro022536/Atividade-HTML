@@ -1,0 +1,34 @@
+body{
+   background-color: rgb(77, 99, 226);
+font: normal 12pt Arial;
+} 
+h3 {
+   color: white;
+   text-align: center;
+}
+mark {
+ background-color:  
+ rgb(91, 65, 235);
+}
+h1 {
+   text-align: center;
+}
+section#txt1{
+   box-shadow: 5px 5px 10px black;
+   width: 400px;
+   margin: auto;
+   padding: 1px;
+   border-radius: 12px;
+   background-color: rgb(218, 165, 52);
+   
+  }
+ 
+h2{
+   color: white;
+}
+div#ola{
+   text-align: left;
+}
+.img-float{
+   float: left;
+}
